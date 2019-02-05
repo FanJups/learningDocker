@@ -8,3 +8,7 @@ https://www.google.com/search?q=use+windows+containers+instead+of+linux+containe
 https://stackoverflow.com/questions/48080326/docker-why-use-linux-containers-on-windows
 
 https://docs.docker.com/docker-for-windows/troubleshoot/#virtualization-must-be-enabled
+
+## How to enable virtualization in windows 10
+
+https://youtu.be/b5G3NuGw2tA
