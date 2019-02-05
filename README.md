@@ -12,3 +12,17 @@ https://docs.docker.com/docker-for-windows/troubleshoot/#virtualization-must-be-
 ## How to enable virtualization in windows 10
 
 https://youtu.be/b5G3NuGw2tA
+
+## how to get enough ram to install docker on windows
+
+https://www.google.com/search?q=how+to+get+enough+ram+to+install+docker+on+windows&oq=how+to+get+enough+ram+to+install+docker+on+windows&aqs=chrome..69i57.13782j0j7&sourceid=chrome&ie=UTF-8
+
+https://forums.docker.com/t/not-enough-memory-to-start-docker/13512
+
+https://stackoverflow.com/questions/43170089/docker-wont-start-on-windows-not-enough-memory-to-start-docker
+
+## how to change the setting of docker on windows
+
+https://www.google.com/search?q=how+to+change+the+setting+of+docker+on+windows&oq=how+to+change+the+setting+of+docker+on+windows&aqs=chrome..69i57.15246j1j7&sourceid=chrome&ie=UTF-8
+
+https://docs.docker.com/docker-for-windows/
