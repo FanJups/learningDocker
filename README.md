@@ -41,3 +41,9 @@ https://docs.microsoft.com/en-us/virtualization/windowscontainers/deploy-contain
 
 https://docs.microsoft.com/fr-fr/sysinternals/downloads/rammap
 
+## Advanced not shown in docker settings
+
+https://www.google.com/search?q=Advanced+not+shown+in+docker+settings&oq=Advanced+not+shown+in+docker+settings&aqs=chrome..69i57.19330j1j7&sourceid=chrome&ie=UTF-8
+
+
+
