@@ -32,3 +32,11 @@ https://docs.docker.com/docker-for-windows/
 I was working on windows containers
 
 https://www.google.com/search?q=docker+%3A+no+matching+manifest+for+unknown+in+the+manifest+list+entries+ubuntu+bash&oq=docker+%3A+no+matching+manifest+for+unknown+in+the+manifest+list+entries+ubuntu+bash&aqs=chrome..69i57.84918j1j7&sourceid=chrome&ie=UTF-8
+
+## how to work with docker in windows using linux containers without space problem
+
+https://www.google.com/search?q=how+to+work+with+docker+in+windows+using+linux+containers+without+space+problem&oq=how+to+work+with+docker+in+windows+using+linux+containers+without+space+problem&aqs=chrome..69i57.79028j1j7&sourceid=chrome&ie=UTF-8
+
+https://docs.microsoft.com/en-us/virtualization/windowscontainers/deploy-containers/linux-containers
+
+
