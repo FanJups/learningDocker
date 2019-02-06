@@ -45,5 +45,15 @@ https://docs.microsoft.com/fr-fr/sysinternals/downloads/rammap
 
 https://www.google.com/search?q=Advanced+not+shown+in+docker+settings&oq=Advanced+not+shown+in+docker+settings&aqs=chrome..69i57.19330j1j7&sourceid=chrome&ie=UTF-8
 
+## how to switch to linux conntainers using command line
+
+https://www.google.com/search?q=how+to+switch+to+linux+conntainers+using+command+line&oq=how+to+switch+to+linux+conntainers+using+command+line+&aqs=chrome..69i57.28614j1j7&sourceid=chrome&ie=UTF-8
+
+## how to delete image docker
+
+https://www.google.com/search?q=how+to+delete+image+docker&oq=how+to+delete+image&aqs=chrome.1.69i57j0l5.8676j1j7&sourceid=chrome&ie=UTF-8
+
+
+
 
 
