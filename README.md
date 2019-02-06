@@ -26,3 +26,9 @@ https://stackoverflow.com/questions/43170089/docker-wont-start-on-windows-not-en
 https://www.google.com/search?q=how+to+change+the+setting+of+docker+on+windows&oq=how+to+change+the+setting+of+docker+on+windows&aqs=chrome..69i57.15246j1j7&sourceid=chrome&ie=UTF-8
 
 https://docs.docker.com/docker-for-windows/
+
+## docker : no matching manifest for unknown in the manifest list entries ubuntu bash
+
+I was working on windows containers
+
+https://www.google.com/search?q=docker+%3A+no+matching+manifest+for+unknown+in+the+manifest+list+entries+ubuntu+bash&oq=docker+%3A+no+matching+manifest+for+unknown+in+the+manifest+list+entries+ubuntu+bash&aqs=chrome..69i57.84918j1j7&sourceid=chrome&ie=UTF-8
