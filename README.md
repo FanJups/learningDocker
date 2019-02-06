@@ -53,6 +53,12 @@ https://www.google.com/search?q=how+to+switch+to+linux+conntainers+using+command
 
 https://www.google.com/search?q=how+to+delete+image+docker&oq=how+to+delete+image&aqs=chrome.1.69i57j0l5.8676j1j7&sourceid=chrome&ie=UTF-8
 
+## Get Started
+
+https://docs.docker.com/docker-for-windows/
+
+https://docs.docker.com/get-started/
+
 
 
 
