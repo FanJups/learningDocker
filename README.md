@@ -61,6 +61,14 @@ https://docs.docker.com/docker-for-windows/
 
 https://docs.docker.com/get-started/
 
+## how to donwload jenkins windows container docker
+
+https://www.google.com/search?q=how+to+donwload+jenkins+windows+container+docker&oq=how+to+donwload+jenkins+windows+container++docker&aqs=chrome..69i57.23242j1j7&sourceid=chrome&ie=UTF-8
+
+https://blog.alexellis.io/continuous-integration-docker-windows-containers/
+
+https://www.assistanz.com/installing-jenkins-through-docker-file-for-windows-container/
+
 
 
 
